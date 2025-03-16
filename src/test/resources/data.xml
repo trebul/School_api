@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <ADDRESS id="1" city="Praha" street="Václavské náměstí" street_number="12"/>
+    <ADDRESS id="2" city="Brno" street="Masarykova" street_number="45"/>
+    <ADDRESS id="3" city="Ostrava" street="Stodolní" street_number="78"/>
+    <ADDRESS id="4" city="Plzeň" street="Americká" street_number="101"/>
+    <ADDRESS id="5" city="České Budějovice" street="Lannova třída" street_number="34"/>
+    <user id="5" email="lumbert@lumbert.cz" password="$2a$10$bR/KXWBJ09zt0zJ4IkKpBu.dkzC10O/BVhK7aEYQuBvBZImOnxntq" role="USER" username="lumbert"/>
+    <user id="6" email="cze@test.cz" password="$2a$10$H1qd9yy0Q7CrevtlGlmmAehztodaHb0kI7cXpG.dsu01JWj/.wlA6" role="USER" username="lmaocháč"/>
+</dataset>
